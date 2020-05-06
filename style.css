@@ -1,0 +1,11 @@
+body{
+    background-color: cyan;
+}
+#quote,#credit{
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+#refresh{
+    font-size: 1.5em;
+}
